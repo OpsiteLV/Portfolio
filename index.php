@@ -28,8 +28,8 @@ li a:hover {
 
 <h1>Vélia Lucas</h1>
 
-<ul>
-  <li><a href="#Accueil">Accueil</a></li>         
+<ul >
+  <li><a href="#Accueil">Accueil</a ></li>         
   <li><a href="#BTS SIO">BTS SIO</a></li>
   <li><a href="#Stages">Stages</a></li>
   <li><a href="#Projets">Projets</a></li>
