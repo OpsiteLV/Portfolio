@@ -37,6 +37,6 @@ li a:hover {
   <li><a href="#Curriculum Vitae">Curriculum Vitae</a></li>
   <li><a href="#Contact">Contact</a></li>
 </ul>
-<h3> Bienvenue sur mon Portfolio</h3>
+<h3 style="Center"> Bienvenue sur mon Portfolio</h3>
 </body>
 </html>
